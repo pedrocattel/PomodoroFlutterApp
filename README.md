@@ -12,7 +12,7 @@ O App será totalmente free e terá seu código disponibilizado na internet.
 ## **Uso**
 
 Logo ao abrir o app o usuário se deparará com uma tela contendo um timer. Basta decidir qual a duração da sessão, assim como qual a duração do
-intervalo.</br>
+intervalo.</br></br>
 Ao final de uma semana será disponibilizado no app na aba "Estatísticas" um overview dos últimos 7 dias, contendo:
 * Número total de sessões;
 * Duração média de cada sessão;
