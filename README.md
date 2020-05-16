@@ -20,7 +20,13 @@ Ao final de uma semana será disponibilizado no app na aba "Estatísticas" um ov
 
 Todo domingo o usuário receberá moedas que o permitirá comprar bonus dentro do app, sendo eles, temas, efeitos e outros itens estéticos.
 
+## **Tecnologias Utilizadas**
 
+* Flutter
+* Dart
+* Firebase
+* NoSQL
+* Android Studio
 
 #**FIQUEEMCASA**
 
